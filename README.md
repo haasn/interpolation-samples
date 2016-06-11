@@ -22,7 +22,7 @@ This is the original, reference 60 FPS source clip we will be comparing the othe
 
 ## Nearest-neighbour resampling
 
-This method, simple frame doubling, matches the default behavior of pretty much every video player out there (including mpv). Every frame is just repeated as necessary to keep video in sync with the reference clock.
+This method, simple frame repeating, matches the default behavior of pretty much every video player out there (including mpv). Every frame is just repeated as necessary to keep video in sync with the reference clock.
 
 [30 fps nearest](https://github.com/haasn/interpolation-samples/blob/master/30fps/nearest.mkv)
 
