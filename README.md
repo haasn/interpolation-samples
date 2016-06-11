@@ -72,7 +72,7 @@ Notice that due to imperfections in the motion estimation algorithm, it visibly 
 
 ## Reference clips / more information
 
-If you want to test playback in your environment, you can find the source clips at their native resolution here:
+If you want to test playback in your environment, you can find the source clips at their native framerate here:
 
 [60 fps native](https://github.com/haasn/interpolation-samples/raw/master/60fps/native.mkv)  
 [30 fps native](https://github.com/haasn/interpolation-samples/raw/master/30fps/native.mkv)  
