@@ -46,7 +46,7 @@ This technique is a slight improvement over the 24 Hz nearest neighbour result i
 
 The result is a clip with less of the “judder” (jerking back and forth) of the “24 fps nearest” sample, but which still roughly preserves the overall frame rate. (Notably, the image still “stutters”, similar to the “20 fps nearest” but not quite as bad since 24 > 20)
 
-## Linear blending (tscale=triangle)
+## Linear blending (tscale=linear)
 
 I picked this tscale to demonstrate interpolation since it's the easiest to implement a simple simulation of. (I may revisit more sophisticated samplers like mitchell and catmull_rom in the future, but for now this will have to do)
 
