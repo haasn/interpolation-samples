@@ -83,7 +83,7 @@ All of the clips I produced are encoded with x264 with CRF 24. The clips produce
 
 If I can find a way to upload the lossless source clips without murdering my bandwidth and my quota, I will consider it. (Feel free to contact me)
 
-All of the clips used are excerpts of the ![Big Buck Bunny](https://peach.blender.org/) open movie project and are copyright 2008 by the Blender Foundation / bigbuckbunny.org. Specifically, the clips I used are available here:
+All of the clips used are excerpts of the [Big Buck Bunny](https://peach.blender.org/) open movie project and are copyright 2008 by the Blender Foundation / bigbuckbunny.org. Specifically, the clips I used are available here:
 
 [bbb_sunflower_1080p_60fps_normal.mp4](http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_1080p_60fps_normal.mp4)  
 [bbb_sunflower_1080p_30fps_normal.mp4](http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_1080p_30fps_normal.mp4)  
