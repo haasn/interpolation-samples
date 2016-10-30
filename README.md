@@ -68,7 +68,7 @@ Since MVTools actually blends along local motion vectors instead of just overlay
 
 Notice that due to imperfections in the motion estimation algorithm, it visibly distorts quickly moving features such as this butterfly:
 
-[mvtools distortion sample](https://raw.githubusercontent.com/haasn/interpolation-samples/master/distortion.png)
+![mvtools distortion sample](https://raw.githubusercontent.com/haasn/interpolation-samples/master/distortion.png)
 
 ## Reference clips / more information
 
